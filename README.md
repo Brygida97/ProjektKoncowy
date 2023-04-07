@@ -18,8 +18,8 @@ Oczekiwany rezultat kroku 3: Cena produktu: 90,00 ZŁ
 Krok 4 - Zweryfikuj ilość sztuk produktu
 Oczekiwany rezultat kroku 4: Ilość sztuk produktu:  1
 
-Krok 5 - Kliknij przycisk DODAJ DO KOSZYKA oraz zweryfikuj, czy wyświetlony komunikat zawiera następującą treść: “Koszulka West Ham United” został dodany do koszyka.
-Oczekiwany rezultat kroku 5: Wyświetlony komunikat zawiera następującą treść: “Koszulka West Ham United” został dodany do koszyka.
+Krok 5 - Kliknij przycisk DODAJ DO KOSZYKA oraz zweryfikuj, czy wyświetlony komunikat zawiera następującą treść: Zobacz koszyk“Koszulka West Ham United” został dodany do koszyka.
+Oczekiwany rezultat kroku 5: Wyświetlony komunikat zawiera następującą treść: Zobacz koszyk“Koszulka West Ham United” został dodany do koszyka.
 
 Krok 6 - Kliknij Zobacz koszyk i zweryfikuj tytuł strony, na którą zostałeś przeniesiony.
 Zrób screen po przeniesieniu się na stronę koszyka i zapisz go w katalogu src/main/resources
