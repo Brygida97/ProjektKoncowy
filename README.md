@@ -33,7 +33,7 @@ Zrób screen po przeniesieniu się na ekran podsumowania zamówienia i zapisz go
 Oczekiwany rezultat kroku 8: Znajdujesz się na ekranie podsumowania zamówienia. Tytuł strony: Zamówienie – Selenium Shop Automatyzacja Testów
 
 Krok 9 - Zweryfikuj nazwę produktu
-Oczekiwany rezultat kroku 9: Nazwa produktu: Koszulka West Ham United
+Oczekiwany rezultat kroku 9: Nazwa produktu: Koszulka West Ham United  × 1
 
 Krok 10 - Zweryfikuj cenę produktu
 Oczekiwany rezultat kroku 10: Cena produktu: 90,00 ZŁ
